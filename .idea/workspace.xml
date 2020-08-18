@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74d23838-455b-4550-a59a-038ea42409a7" name="Default Changelist" comment="Create LICENSE" />
+    <list id="89d86d48-282b-438f-a9b9-d80b0efcd28f" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 9bc41190" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Han Y.B &lt;yanbohan98@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="06d28dd1aabb14a7dad8f7224b6431e37f4934fd" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/saltball/pyRHF.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c7Aui4Imi5teDgpXkF7fwU98LY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hanyanbo98\PycharmProjects\pyRHF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="symInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyRHF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QuanChemComp/core/AnalyticInteg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QuanChemComp/core/AnalyticInteg/symInt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.symInt" />
+        <item itemvalue="Python.symInt" />
+        <item itemvalue="Python.symInt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74d23838-455b-4550-a59a-038ea42409a7" name="Default Changelist" comment="" />
+      <created>1589869482027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589869482027</updated>
+      <workItem from="1589869483399" duration="809000" />
+      <workItem from="1597658442849" duration="2596000" />
+      <workItem from="1597662998717" duration="3963000" />
+      <workItem from="1597750575793" duration="4376000" />
+    </task>
+    <task id="LOCAL-00001" summary="20200817">
+      <created>1597664820598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597664820598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20200817">
+      <created>1597666436346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597666436346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20200817">
+      <created>1597666676842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597666676843</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1597751035383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597751035383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create LICENSE">
+      <created>1597755676746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597755676746</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200817" />
+    <MESSAGE value="now" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Create LICENSE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create LICENSE" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597666633017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597666633017" />
+    <state x="546" y="85" key="CommitChangelistDialog2" timestamp="1597664916029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597664916029" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1597667301579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597667301579" />
+    <state x="267" y="275" key="FileChooserDialogImpl" timestamp="1597757969469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597757969469" />
+    <state x="832" y="417" key="Github.ShareDialog" timestamp="1589869638098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589869638098" />
+    <state x="745" y="224" key="Github.UntrackedFilesDialog" timestamp="1589869665641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589869665641" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1597667301524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597667301524" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1597667301524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597667301524" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1597667301524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597667301524" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1597667301524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597667301524" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1597666735655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666735655" />
+    <state x="595" y="280" key="MultipleFileMergeDialog" timestamp="1597666735660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666735660" />
+    <state x="744" y="114" key="SettingsEditor" timestamp="1597664087808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="114" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597664087808" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597755687550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597755687550" />
+    <state x="702" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1597666957921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="254" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666957921" />
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597751133278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597751133278" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597757758260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597757758260" />
+    <state x="721" y="307" key="git4idea.merge.GitMergeDialog" timestamp="1597666424081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="307" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666424081" />
+    <state x="681" y="307" key="git4idea.merge.GitPullDialog" timestamp="1597666751434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666751434" />
+    <state x="733" y="414" key="git4idea.ui.GitResetDialog" timestamp="1597751126795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597751126795" />
+    <state x="733" y="418" key="git4idea.ui.GitStashDialog" timestamp="1597666417456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="418" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666417456" />
+    <state x="717" y="308" key="git4idea.ui.GitUnstashDialog" timestamp="1597666413298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="308" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597666413298" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyRHF$numpyTest.coverage" NAME="numpyTest Coverage Results" MODIFIED="1597663852757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/OneDrive/#This term/#workshop/20200817" />
+    <SUITE FILE_PATH="coverage/pyRHF$symInt.coverage" NAME="symInt Coverage Results" MODIFIED="1597664209085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuanChemComp/core/AnalyticInteg" />
+  </component>
+</project>
